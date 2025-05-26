@@ -38,4 +38,10 @@ This project uses a **Genetic Algorithm (GA)** to solve the complex problem of t
 
   pip install -r requirements.txt
 
+  ### Outputs
+![image](https://github.com/user-attachments/assets/9d815cb1-7278-4555-afd6-caa6bb683be4)
+
+![image](https://github.com/user-attachments/assets/efba526e-d104-40a9-ada9-1283ac95dc8e)
+
+
 
