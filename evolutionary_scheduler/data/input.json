@@ -1,0 +1,630 @@
+{
+    "courses": [
+      {
+        "name": "English",
+        "professor": "Ms. Emily Clark",
+        "group": "Group F"
+      },
+      {
+        "name": "Sociology",
+        "professor": "Prof. Ivy Walker",
+        "group": "Group J"
+      },
+      {
+        "name": "History",
+        "professor": "Dr. Grace Kim",
+        "group": "Group I"
+      },
+      {
+        "name": "Biology",
+        "professor": "Dr. Alice Smith",
+        "group": "Group I"
+      },
+      {
+        "name": "Psychology",
+        "professor": "Dr. Carol Patel",
+        "group": "Group H"
+      },
+      {
+        "name": "Psychology",
+        "professor": "Prof. Jack Young",
+        "group": "Group I"
+      },
+      {
+        "name": "History",
+        "professor": "Mr. Frank Lee",
+        "group": "Group F"
+      },
+      {
+        "name": "Chemistry",
+        "professor": "Dr. Liam Turner",
+        "group": "Group J"
+      },
+      {
+        "name": "Physics",
+        "professor": "Dr. Alice Smith",
+        "group": "Group G"
+      },
+      {
+        "name": "English",
+        "professor": "Dr. Kelly Moore",
+        "group": "Group G"
+      },
+      {
+        "name": "Environmental Science",
+        "professor": "Dr. David Brown",
+        "group": "Group D"
+      },
+      {
+        "name": "Psychology",
+        "professor": "Dr. Bob Johnson",
+        "group": "Group D"
+      },
+      {
+        "name": "Physics",
+        "professor": "Dr. Liam Turner",
+        "group": "Group D"
+      },
+      {
+        "name": "English",
+        "professor": "Dr. Bob Johnson",
+        "group": "Group A"
+      },
+      {
+        "name": "Sociology",
+        "professor": "Dr. Liam Turner",
+        "group": "Group J"
+      },
+      {
+        "name": "English",
+        "professor": "Ms. Emily Clark",
+        "group": "Group F"
+      },
+      {
+        "name": "Political Science",
+        "professor": "Dr. Alice Smith",
+        "group": "Group C"
+      },
+      {
+        "name": "Geography",
+        "professor": "Dr. Kelly Moore",
+        "group": "Group I"
+      },
+      {
+        "name": "Sociology",
+        "professor": "Ms. Emily Clark",
+        "group": "Group A"
+      },
+      {
+        "name": "Chemistry",
+        "professor": "Dr. Kelly Moore",
+        "group": "Group C"
+      },
+      {
+        "name": "Physics",
+        "professor": "Dr. Carol Patel",
+        "group": "Group C"
+      },
+      {
+        "name": "Psychology",
+        "professor": "Dr. David Brown",
+        "group": "Group E"
+      },
+      {
+        "name": "Sociology",
+        "professor": "Dr. Henry Adams",
+        "group": "Group A"
+      },
+      {
+        "name": "Chemistry",
+        "professor": "Mr. Frank Lee",
+        "group": "Group F"
+      },
+      {
+        "name": "Economics",
+        "professor": "Ms. Emily Clark",
+        "group": "Group E"
+      },
+      {
+        "name": "Statistics",
+        "professor": "Dr. Kelly Moore",
+        "group": "Group D"
+      },
+      {
+        "name": "English",
+        "professor": "Dr. Kelly Moore",
+        "group": "Group D"
+      },
+      {
+        "name": "Sociology",
+        "professor": "Prof. Jack Young",
+        "group": "Group G"
+      },
+      {
+        "name": "Statistics",
+        "professor": "Dr. Bob Johnson",
+        "group": "Group E"
+      },
+      {
+        "name": "Psychology",
+        "professor": "Ms. Emily Clark",
+        "group": "Group G"
+      },
+      {
+        "name": "Computer Science",
+        "professor": "Dr. Liam Turner",
+        "group": "Group H"
+      },
+      {
+        "name": "Chemistry",
+        "professor": "Dr. Grace Kim",
+        "group": "Group E"
+      },
+      {
+        "name": "Political Science",
+        "professor": "Prof. Ivy Walker",
+        "group": "Group D"
+      },
+      {
+        "name": "Geography",
+        "professor": "Dr. Carol Patel",
+        "group": "Group E"
+      },
+      {
+        "name": "English",
+        "professor": "Mr. Frank Lee",
+        "group": "Group H"
+      },
+      {
+        "name": "Environmental Science",
+        "professor": "Dr. Bob Johnson",
+        "group": "Group H"
+      },
+      {
+        "name": "Statistics",
+        "professor": "Dr. Kelly Moore",
+        "group": "Group I"
+      },
+      {
+        "name": "Statistics",
+        "professor": "Dr. Alice Smith",
+        "group": "Group G"
+      },
+      {
+        "name": "Psychology",
+        "professor": "Prof. Ivy Walker",
+        "group": "Group J"
+      },
+      {
+        "name": "Statistics",
+        "professor": "Prof. Jack Young",
+        "group": "Group H"
+      },
+      {
+        "name": "Sociology",
+        "professor": "Dr. Henry Adams",
+        "group": "Group A"
+      },
+      {
+        "name": "Psychology",
+        "professor": "Prof. Jack Young",
+        "group": "Group H"
+      },
+      {
+        "name": "Sociology",
+        "professor": "Prof. Jack Young",
+        "group": "Group F"
+      },
+      {
+        "name": "Psychology",
+        "professor": "Dr. Alice Smith",
+        "group": "Group E"
+      },
+      {
+        "name": "English",
+        "professor": "Dr. David Brown",
+        "group": "Group J"
+      },
+      {
+        "name": "Mathematics",
+        "professor": "Dr. Bob Johnson",
+        "group": "Group C"
+      },
+      {
+        "name": "Psychology",
+        "professor": "Mr. Frank Lee",
+        "group": "Group H"
+      },
+      {
+        "name": "Statistics",
+        "professor": "Dr. Henry Adams",
+        "group": "Group I"
+      },
+      {
+        "name": "Geography",
+        "professor": "Prof. Ivy Walker",
+        "group": "Group J"
+      },
+      {
+        "name": "Mathematics",
+        "professor": "Dr. Henry Adams",
+        "group": "Group B"
+      },
+      {
+        "name": "Mathematics",
+        "professor": "Dr. Henry Adams",
+        "group": "Group J"
+      },
+      {
+        "name": "Chemistry",
+        "professor": "Prof. Ivy Walker",
+        "group": "Group C"
+      },
+      {
+        "name": "Chemistry",
+        "professor": "Mr. Frank Lee",
+        "group": "Group J"
+      },
+      {
+        "name": "Chemistry",
+        "professor": "Dr. Alice Smith",
+        "group": "Group A"
+      },
+      {
+        "name": "Economics",
+        "professor": "Dr. Liam Turner",
+        "group": "Group J"
+      },
+      {
+        "name": "Geography",
+        "professor": "Dr. Henry Adams",
+        "group": "Group D"
+      },
+      {
+        "name": "History",
+        "professor": "Prof. Ivy Walker",
+        "group": "Group H"
+      },
+      {
+        "name": "Psychology",
+        "professor": "Dr. David Brown",
+        "group": "Group B"
+      },
+      {
+        "name": "Economics",
+        "professor": "Dr. Carol Patel",
+        "group": "Group G"
+      },
+      {
+        "name": "Environmental Science",
+        "professor": "Mr. Frank Lee",
+        "group": "Group C"
+      },
+      {
+        "name": "Physics",
+        "professor": "Dr. Henry Adams",
+        "group": "Group E"
+      },
+      {
+        "name": "Physics",
+        "professor": "Dr. Kelly Moore",
+        "group": "Group G"
+      },
+      {
+        "name": "Environmental Science",
+        "professor": "Prof. Ivy Walker",
+        "group": "Group G"
+      },
+      {
+        "name": "Biology",
+        "professor": "Dr. Kelly Moore",
+        "group": "Group H"
+      },
+      {
+        "name": "Chemistry",
+        "professor": "Dr. David Brown",
+        "group": "Group J"
+      },
+      {
+        "name": "History",
+        "professor": "Ms. Emily Clark",
+        "group": "Group E"
+      },
+      {
+        "name": "Physics",
+        "professor": "Dr. Carol Patel",
+        "group": "Group F"
+      },
+      {
+        "name": "Biology",
+        "professor": "Dr. Kelly Moore",
+        "group": "Group D"
+      },
+      {
+        "name": "History",
+        "professor": "Prof. Ivy Walker",
+        "group": "Group D"
+      },
+      {
+        "name": "Computer Science",
+        "professor": "Ms. Emily Clark",
+        "group": "Group J"
+      },
+      {
+        "name": "Computer Science",
+        "professor": "Dr. Alice Smith",
+        "group": "Group D"
+      },
+      {
+        "name": "Physics",
+        "professor": "Dr. Alice Smith",
+        "group": "Group G"
+      },
+      {
+        "name": "Economics",
+        "professor": "Ms. Emily Clark",
+        "group": "Group J"
+      },
+      {
+        "name": "Chemistry",
+        "professor": "Dr. Alice Smith",
+        "group": "Group B"
+      },
+      {
+        "name": "Sociology",
+        "professor": "Dr. Bob Johnson",
+        "group": "Group H"
+      },
+      {
+        "name": "Mathematics",
+        "professor": "Dr. Kelly Moore",
+        "group": "Group H"
+      },
+      {
+        "name": "Political Science",
+        "professor": "Dr. Liam Turner",
+        "group": "Group A"
+      },
+      {
+        "name": "Political Science",
+        "professor": "Dr. Henry Adams",
+        "group": "Group C"
+      },
+      {
+        "name": "English",
+        "professor": "Prof. Ivy Walker",
+        "group": "Group J"
+      },
+      {
+        "name": "Environmental Science",
+        "professor": "Ms. Emily Clark",
+        "group": "Group A"
+      },
+      {
+        "name": "Sociology",
+        "professor": "Dr. Alice Smith",
+        "group": "Group I"
+      },
+      {
+        "name": "English",
+        "professor": "Dr. Carol Patel",
+        "group": "Group I"
+      },
+      {
+        "name": "Computer Science",
+        "professor": "Ms. Emily Clark",
+        "group": "Group E"
+      },
+      {
+        "name": "Economics",
+        "professor": "Ms. Emily Clark",
+        "group": "Group G"
+      },
+      {
+        "name": "Mathematics",
+        "professor": "Dr. Alice Smith",
+        "group": "Group G"
+      },
+      {
+        "name": "Computer Science",
+        "professor": "Ms. Emily Clark",
+        "group": "Group C"
+      },
+      {
+        "name": "Physics",
+        "professor": "Prof. Jack Young",
+        "group": "Group B"
+      },
+      {
+        "name": "Economics",
+        "professor": "Dr. David Brown",
+        "group": "Group G"
+      },
+      {
+        "name": "Geography",
+        "professor": "Dr. Henry Adams",
+        "group": "Group F"
+      },
+      {
+        "name": "Economics",
+        "professor": "Dr. Carol Patel",
+        "group": "Group A"
+      },
+      {
+        "name": "Mathematics",
+        "professor": "Dr. Grace Kim",
+        "group": "Group J"
+      },
+      {
+        "name": "Political Science",
+        "professor": "Dr. Bob Johnson",
+        "group": "Group D"
+      },
+      {
+        "name": "Psychology",
+        "professor": "Dr. Henry Adams",
+        "group": "Group I"
+      },
+      {
+        "name": "Chemistry",
+        "professor": "Dr. Kelly Moore",
+        "group": "Group F"
+      },
+      {
+        "name": "Chemistry",
+        "professor": "Ms. Emily Clark",
+        "group": "Group H"
+      },
+      {
+        "name": "Computer Science",
+        "professor": "Prof. Jack Young",
+        "group": "Group C"
+      },
+      {
+        "name": "English",
+        "professor": "Mr. Frank Lee",
+        "group": "Group E"
+      },
+      {
+        "name": "Chemistry",
+        "professor": "Dr. Grace Kim",
+        "group": "Group H"
+      },
+      {
+        "name": "Economics",
+        "professor": "Ms. Emily Clark",
+        "group": "Group I"
+      },
+      {
+        "name": "Sociology",
+        "professor": "Dr. Henry Adams",
+        "group": "Group I"
+      }
+    ],
+    "rooms": [
+      {
+        "name": "Room 100",
+        "capacity": 30
+      },
+      {
+        "name": "Room 101",
+        "capacity": 25
+      },
+      {
+        "name": "Room 102",
+        "capacity": 25
+      },
+      {
+        "name": "Room 103",
+        "capacity": 35
+      },
+      {
+        "name": "Room 104",
+        "capacity": 25
+      },
+      {
+        "name": "Room 105",
+        "capacity": 40
+      },
+      {
+        "name": "Room 106",
+        "capacity": 40
+      },
+      {
+        "name": "Room 107",
+        "capacity": 35
+      },
+      {
+        "name": "Room 108",
+        "capacity": 40
+      },
+      {
+        "name": "Room 109",
+        "capacity": 35
+      },
+      {
+        "name": "Lab 200",
+        "capacity": 25
+      },
+      {
+        "name": "Lab 201",
+        "capacity": 25
+      },
+      {
+        "name": "Lab 202",
+        "capacity": 30
+      },
+      {
+        "name": "Lab 203",
+        "capacity": 25
+      },
+      {
+        "name": "Lab 204",
+        "capacity": 30
+      }
+    ],
+    "timeslots": [
+      "Monday 9:00-10:00",
+      "Monday 10:00-11:00",
+      "Monday 11:00-12:00",
+      "Monday 12:00-13:00",
+      "Tuesday 9:00-10:00",
+      "Tuesday 10:00-11:00",
+      "Tuesday 11:00-12:00",
+      "Tuesday 12:00-13:00",
+      "Wednesday 9:00-10:00",
+      "Wednesday 10:00-11:00",
+      "Wednesday 11:00-12:00",
+      "Wednesday 12:00-13:00",
+      "Thursday 9:00-10:00",
+      "Thursday 10:00-11:00",
+      "Thursday 11:00-12:00",
+      "Thursday 12:00-13:00",
+      "Friday 9:00-10:00",
+      "Friday 10:00-11:00",
+      "Friday 11:00-12:00",
+      "Friday 12:00-13:00"
+    ],
+    "student_groups": [
+      {
+        "name": "Group A",
+        "size": 35
+      },
+      {
+        "name": "Group B",
+        "size": 32
+      },
+      {
+        "name": "Group C",
+        "size": 31
+      },
+      {
+        "name": "Group D",
+        "size": 25
+      },
+      {
+        "name": "Group E",
+        "size": 22
+      },
+      {
+        "name": "Group F",
+        "size": 20
+      },
+      {
+        "name": "Group G",
+        "size": 23
+      },
+      {
+        "name": "Group H",
+        "size": 35
+      },
+      {
+        "name": "Group I",
+        "size": 34
+      },
+      {
+        "name": "Group J",
+        "size": 28
+      }
+    ]
+  }
